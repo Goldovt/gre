@@ -7,4 +7,4 @@ wow there is content here
 - of things
 - can appear
 
-[wow links](/README.md)
+[wow links](/index.md)
