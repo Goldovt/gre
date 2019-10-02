@@ -2,15 +2,11 @@ Topical Wordlists.
 
 Why is this important?
 
-
-- first list - success
-- of things
-- can appear
-
 [1. **Successful**](/tw001.md)
 
 [2. **Aggressive**](/tw002.md)
 
-back to app index.
+[GRE Home](/index.md)
 
-GRE Wordlist App is Developed and maintained by David Goldovt-Ryzhenkov and Joe Ruane.
+GRE Wordlist App was developed by David Goldovt-Ryzhenkov and Joe Ruane.
+This is a web adaptation of it.
