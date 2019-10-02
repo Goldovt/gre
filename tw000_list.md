@@ -9,7 +9,7 @@ Why is this important?
 
 [1. **Successful**](/tw001.md)
 
-[2. **Aggressive**)(/tw002.md)
+[2. **Aggressive**](/tw002.md)
 
 back to app index.
 
