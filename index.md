@@ -1,6 +1,12 @@
 # gre
 
-Index
+<p style="text-align: center;"> **Index** and </p>
 
 
-[wow a link](/tw_list.md)
+[Wordlists](/tw000_list.md) topical GRE worldlists.
+
+Roots
+
+Most common GRE words
+
+
