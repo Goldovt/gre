@@ -3,4 +3,4 @@
 Index
 
 
-[wow a link](/file2.md)
+[wow a link](/tw_list.md)
