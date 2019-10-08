@@ -5,7 +5,7 @@
 
 [Wordlists](/tw000_list.md) topical GRE worldlists.
 
-Roots
+[Roots](/roots.md)
 
 Most common GRE words
 
