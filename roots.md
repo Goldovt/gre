@@ -4,16 +4,22 @@ Roots
 Roots, prefixes and suffixes can help you grow your vocabulary exponentially. The ones here were carefully selected. 
 
 **Successful**
-apt - fit.
-sums - highest.
-para - beyond.
+apt - fit,
+sums - highest,
+para - beyond,
 dexter - skillful.
 
 **Aggressive**
-tract - pull
-ob- against
-tenax - hold fast
-per- very
+tract - pull,
+ob- against,
+tenax - hold fast,
+per- very.
+
+**Skillful**
+
+**Getting to the point**
+
+
 
 [GRE App Index](/index.md)
   
