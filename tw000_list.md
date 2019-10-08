@@ -8,6 +8,8 @@ Why is this important?
 
 [3. **Skillful**](/tw003.md)
 
+[4. **Succunt**](/tw_tothepoint.md)
+
 [GRE Home](/index.md)
 
 GRE Wordlist App was developed by David Goldovt-Ryzhenkov and Joe Ruane.
