@@ -8,7 +8,7 @@ Why is this important?
 
 [3. **Skillful**](/tw003.md)
 
-[4. **Succunt**](/tw_tothepoint.md)
+[4. **Succunt**](/tw_succunt.md)
 
 [GRE Home](/index.md)
 
