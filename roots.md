@@ -9,6 +9,12 @@ sums - highest.
 para - beyond.
 dexter - skillful.
 
+**Aggressive**
+tract - pull
+ob- against
+tenax - hold fast
+per- very
+
 [GRE App Index](/index.md)
   
 This is raw data for the GRE Wordlist App.
