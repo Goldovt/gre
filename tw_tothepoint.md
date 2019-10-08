@@ -1,6 +1,6 @@
   [graphic]
 
-Topic **Getting to the point**
+Topic **Succunt**
 
 	concise - brief and to the point	
 	laconic - disposed to using few words
