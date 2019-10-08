@@ -8,3 +8,8 @@ apt - fit.
 sums - highest.
 para - beyond.
 dexter - skillful.
+
+[GRE App Index](/index.md)
+  
+This is raw data for the GRE Wordlist App.
+Created and maintained by David Goldovt-Ryzhenkov and Joe Ruane.
