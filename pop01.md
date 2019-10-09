@@ -11,7 +11,7 @@ Equivocal -
 Gullible -
 Laudable -
 Mitigate -
-Placate
+Placate -
 Prodigal
 Volatile
 
