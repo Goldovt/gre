@@ -3,16 +3,14 @@
 Popular word list 1 
 **33 words**
 
-Fallacious - deceptive
-Rapacious - greedy, ravenous 
 Abstain - restrain oneself from doing something (abstain from sex, abstain from voting)
 Apathy - lack of interest, enthusiasm, or concern (apathy among tenured professors)
 Capricious - changing mind, whimsical, impulsive(affluent children are stereotyped as whimsical)
 Engender - cause something (Donald Trump engendered controversy with his “Russia, if you are listening” remarks)
-Equivocal
-Gullible
-Laudable
-Mitigate
+Equivocal -
+Gullible -
+Laudable -
+Mitigate -
 Placate
 Prodigal
 Volatile
@@ -29,7 +27,7 @@ Pragmatic
 Propriety
 Zeal
 
-Anomaly 
+Anomaly -
 Audacious
 Desiccate
 Ephemeral
@@ -40,8 +38,6 @@ Pedant
 Precipitate
 Vacillate
 
-Fallacious - deceptive
-Rapacious - greedy, ravenous 
   
 [GRE App Index](/index.md)
 
