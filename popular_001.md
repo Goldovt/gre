@@ -1,8 +1,16 @@
+[graphic]
 
+Topic Success
+
+Aptitude - n - natural ability, intelligence
+Apt - adj - fit
+Adroit - adj -  dexterous, skillful
+Deft - adj - highly skilled, adroit
 
 **Popular GRE Word List # 1**
 
 Fallacious - deceptive
+
 Rapacious - greedy, ravenous 
 Abstain - restrain oneself from doing something (abstain from sex, abstain from voting)
 Apathy - lack of interest, enthusiasm, or concern (apathy among tenured professors)
