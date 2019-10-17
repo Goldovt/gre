@@ -1,9 +1,16 @@
+Popular list of 
 
+	Fallacious - deceptive
+	Rapacious - greedy, ravenous 
+	Abstain - restrain oneself from doing something 
+		(abstain from sex, abstain from voting)
+	Apathy - lack of interest, enthusiasm, or
 **Popular GRE Word List # 1**
 
 	Fallacious - deceptive
 	Rapacious - greedy, ravenous 
-	Abstain - restrain oneself from doing something (abstain from sex, abstain from voting)
+	Abstain - restrain oneself from doing something 
+		(abstain from sex, abstain from voting)
 	Apathy - lack of interest, enthusiasm, or concern (apathy among tenured professors)
 	Capricious - changing mind, whimsical, impulsive(affluent children are stereotyped as whimsical)
 	Engender - cause something (Donald Trump engendered controversy with his “Russia, if you are listening” remarks)
